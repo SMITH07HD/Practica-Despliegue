@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Smith/OneDrive/Desktop/Practica Despliegue/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Smith/OneDrive/Desktop/Practica Despliegue","disabled":false,"__vagrantfile":true}}}
